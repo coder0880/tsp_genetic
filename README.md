@@ -5,6 +5,6 @@ For the following graph (initial vertex is 0):
 
 ![](https://github.com/marcoscastro/tsp_genetic/blob/master/images/graph1.png)
 
-the program prints:
+the program prints the following :
 
 ![](https://github.com/marcoscastro/tsp_genetic/blob/master/images/graph1_solution.png)
